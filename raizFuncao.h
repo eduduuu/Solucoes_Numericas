@@ -1,0 +1,1 @@
+double metodoSecantes(double x0, double x1, double erro, double (*function)(double));
